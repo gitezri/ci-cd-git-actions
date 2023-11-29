@@ -1,5 +1,5 @@
-def bye1():
-    print("bye")
+def bye():
+    print("bye bye")
 
 
 print(hello())
